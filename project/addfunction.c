@@ -12,6 +12,7 @@ main()
 	scanf("%d%d",&a,&b);
 	add(a,b);
 	sub(a,b);
+	printf("spark institute");
 	
 }
 void add(int a,int b)
