@@ -13,6 +13,7 @@ main()
 	add(a,b);
 	sub(a,b);
 	printf("spark institute");
+prinf("hello c");
 	
 }
 void add(int a,int b)
